@@ -1,0 +1,26 @@
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs
+*.log
+
+# Editors/OS
+*.swp
+*.swo
+.DS_Store
+.idea/
+.vscode/
+
+# Virtual environments
+venv/
+.venv/
+.env
+
+# Build outputs
+*.class
+target/
+build/
+dist/
+*.iml
